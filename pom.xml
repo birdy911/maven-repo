@@ -52,7 +52,7 @@
 			</plugin>
 			
 			<plugin>
-				<groupId>test2.grad.testingJar.testingJar.1.0.0-SNAPSHOT</groupId>
+				<groupId>test30.grad.testingJar.testingJar.1.0.0-SNAPSHOT</groupId>
 				<artifactId>testingJar</artifactId>
 			</plugin>
 			
