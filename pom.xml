@@ -28,7 +28,7 @@
             </plugin>
 			
 			<plugin>
-				<groupId>test2.grad.testingJar.testingJar.1.0.0-SNAPSHOT</groupId>
+				<groupId>test30.grad.testingJar.testingJar.1.0.0-SNAPSHOT</groupId>
 				<artifactId>testingJar</artifactId>
 				<version>1.1</version>
 			</plugin>
@@ -87,7 +87,7 @@
 			
 			
 			<dependency>
-                <groupId>test3.grad.testingJar.testingJar</groupId>
+                <groupId>test30.grad.testingJar.testingJar</groupId>
                 <artifactId>testingJar</artifactId>
                 <version>1.0.0</version>
             </dependency>
